@@ -1,8 +1,9 @@
-# CB Messaging Blueprint 
+# CB Camera Blueprint
 
 This is a Camera Blueprint.
 
 Screens:
+
 - CameraSnap (black screen in screenshots since iOS does not allow to use camera in simulator)
 - Permision from user
 - Navigation
