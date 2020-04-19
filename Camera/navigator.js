@@ -4,7 +4,7 @@ import CameraScreen from "./screens/CameraScreen";
 import Home from "./screens/";
 
 
-export const CameraNavigator = createStackNavigator(
+export default CameraNavigator = createStackNavigator(
   {
     Camera: { screen: CameraScreen },
     Home: { screen: Home },
